@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>Sygic.Maps.Clients</title>
+        <authors>Sygic Platform team</authors>
+        <owners>Sygic</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Library contains Sygic Maps Clients</description>
+        <copyright>Copyright Sygic 2017</copyright>
+        <iconUrl>http://sygicplatformprod.blob.core.windows.net/sygicnuget/icon_sygic_nuget.png</iconUrl>
+        <tags>Geo</tags>
+    </metadata>
+</package>
