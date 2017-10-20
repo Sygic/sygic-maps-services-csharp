@@ -9,3 +9,9 @@ The Csharp Client for Sygic Maps Services is a Csharp client library for the fol
 
 
 [Optimization API]: https://www.sygic.com/developers/maps-api-services/optimization-api
+
+## Installation
+
+Library can be installed via Nuget:
+
+`Install-Package Sygic.Maps.Clients`
